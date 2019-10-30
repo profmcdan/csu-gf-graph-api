@@ -3,8 +3,10 @@
    "version": "0.0.1",
    "description": "Awesome project developed with TypeORM.",
    "devDependencies": {
-      "ts-node": "8.4.1",
       "@types/node": "^12.12.1",
+      "ts-node": "8.4.1",
+      "tslint": "^5.20.0",
+      "tslint-config-prettier": "^1.18.0",
       "typescript": "3.6.4"
    },
    "dependencies": {
