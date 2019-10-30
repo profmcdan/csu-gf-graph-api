@@ -1,4 +1,4 @@
-# Awesome Project Build with TypeORM
+# C & S Unification GF API built with typescript
 
 Steps to run this project:
 
